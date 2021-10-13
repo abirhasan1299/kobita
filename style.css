@@ -42,3 +42,11 @@ body{
     text-align: center;
     padding: 30px;
 }
+@viewport{
+    width: extend-to-zoom;
+    zoom: 1.0;
+}
+@-ms-viewport{
+    width:extend-to-zoom;
+    zoom:1.0;
+}
